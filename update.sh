@@ -81,4 +81,4 @@ git push
 
 echo ""
 echo "✅ Done! Your site will update in 1-2 minutes at:"
-echo "🌐 https://gsjulian81-bot.github.io/diamond-inventory/"
+echo "🌐 https://naytoeaung.github.io/diamond-inventory/"
