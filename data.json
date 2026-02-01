@@ -130,17 +130,17 @@
     "finalPrice": 1894500
   },
   {
-    "date": 46029,
-    "shape": "RG",
-    "size": "4",
+    "date": 46054,
+    "shape": "RB",
+    "size": "2",
     "perCt": "30",
-    "quantity": 4,
+    "quantity": 2,
     "rate": 600000,
     "discountRate": 0,
     "type": "Sell",
-    "originalPrice": 2400000,
+    "originalPrice": 1200000,
     "discountPrice": 0,
-    "finalPrice": 79200000,
+    "finalPrice": 39600000,
     "changeUnit": 1.1,
     "adjustedPerCt": 33
   }
