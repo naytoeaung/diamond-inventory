@@ -1,0 +1,122 @@
+[
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "2",
+    "perCt": "30",
+    "quantity": 3.635,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "originalPrice": 1817500,
+    "discountPrice": 454375,
+    "finalPrice": 1363125
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "1.3-1.25",
+    "perCt": "80/100",
+    "quantity": 2.525,
+    "rate": 600000,
+    "discountRate": 0.25,
+    "originalPrice": 1515000,
+    "discountPrice": 378750,
+    "finalPrice": 1136250
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "2.8-2.9",
+    "perCt": "12",
+    "quantity": 2.16,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "originalPrice": 1080000,
+    "discountPrice": 270000,
+    "finalPrice": 810000
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "2.5-2.6",
+    "perCt": "16",
+    "quantity": 1,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "originalPrice": 500000,
+    "discountPrice": 125000,
+    "finalPrice": 375000
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "3.5",
+    "perCt": "6",
+    "quantity": 7.51,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "originalPrice": 3755000,
+    "discountPrice": 938750,
+    "finalPrice": 2816250
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "4.4",
+    "perCt": "3",
+    "quantity": 2.49,
+    "rate": 750000,
+    "discountRate": 0.25,
+    "originalPrice": 1867500,
+    "discountPrice": 466875,
+    "finalPrice": 1400625
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "2.2-2.3",
+    "perCt": "20",
+    "quantity": 0.495,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "originalPrice": 247500,
+    "discountPrice": 61875,
+    "finalPrice": 185625
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "1.5",
+    "perCt": "60",
+    "quantity": 2.03,
+    "rate": 550000,
+    "discountRate": 0.25,
+    "originalPrice": 1116500,
+    "discountPrice": 279125,
+    "finalPrice": 837375
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "1.8-1.9",
+    "perCt": "40",
+    "quantity": 2.52,
+    "rate": 550000,
+    "discountRate": 0.25,
+    "originalPrice": 1386000,
+    "discountPrice": 346500,
+    "finalPrice": 1039500
+  },
+  {
+    "date": 46019,
+    "shape": "RB",
+    "size": "1-1.1",
+    "perCt": "200",
+    "quantity": 2.105,
+    "rate": 1200000,
+    "discountRate": 0.25,
+    "originalPrice": 2526000,
+    "discountPrice": 631500,
+    "finalPrice": 1894500
+  }
+]
