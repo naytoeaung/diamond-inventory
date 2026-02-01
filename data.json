@@ -130,6 +130,32 @@
     "finalPrice": 1894500
   },
   {
+    "date": 46064,
+    "shape": "12",
+    "size": "12",
+    "perCt": "12",
+    "quantity": 12,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 6000000,
+    "discountPrice": 1500000,
+    "finalPrice": 4500000
+  },
+  {
+    "date": 46078,
+    "shape": "BB",
+    "size": "12",
+    "perCt": "32",
+    "quantity": 123,
+    "rate": 600000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 73800000,
+    "discountPrice": 18450000,
+    "finalPrice": 55350000
+  },
+  {
     "date": 46054,
     "shape": "RB",
     "size": "2",
