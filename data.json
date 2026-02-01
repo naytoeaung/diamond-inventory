@@ -156,6 +156,19 @@
     "finalPrice": 55350000
   },
   {
+    "date": 46084,
+    "shape": "RC",
+    "size": "22",
+    "perCt": "3",
+    "quantity": 4,
+    "rate": 600000,
+    "discountRate": 0.35,
+    "type": "Purchase",
+    "originalPrice": 2400000,
+    "discountPrice": 840000,
+    "finalPrice": 1560000
+  },
+  {
     "date": 46054,
     "shape": "RB",
     "size": "2",
