@@ -7,6 +7,7 @@
     "quantity": 3.635,
     "rate": 500000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 1817500,
     "discountPrice": 454375,
     "finalPrice": 1363125
@@ -19,6 +20,7 @@
     "quantity": 2.525,
     "rate": 600000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 1515000,
     "discountPrice": 378750,
     "finalPrice": 1136250
@@ -31,6 +33,7 @@
     "quantity": 2.16,
     "rate": 500000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 1080000,
     "discountPrice": 270000,
     "finalPrice": 810000
@@ -43,6 +46,7 @@
     "quantity": 1,
     "rate": 500000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 500000,
     "discountPrice": 125000,
     "finalPrice": 375000
@@ -55,6 +59,7 @@
     "quantity": 7.51,
     "rate": 500000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 3755000,
     "discountPrice": 938750,
     "finalPrice": 2816250
@@ -67,6 +72,7 @@
     "quantity": 2.49,
     "rate": 750000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 1867500,
     "discountPrice": 466875,
     "finalPrice": 1400625
@@ -79,6 +85,7 @@
     "quantity": 0.495,
     "rate": 500000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 247500,
     "discountPrice": 61875,
     "finalPrice": 185625
@@ -91,6 +98,7 @@
     "quantity": 2.03,
     "rate": 550000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 1116500,
     "discountPrice": 279125,
     "finalPrice": 837375
@@ -103,6 +111,7 @@
     "quantity": 2.52,
     "rate": 550000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 1386000,
     "discountPrice": 346500,
     "finalPrice": 1039500
@@ -115,8 +124,89 @@
     "quantity": 2.105,
     "rate": 1200000,
     "discountRate": 0.25,
+    "type": "Purchase",
     "originalPrice": 2526000,
     "discountPrice": 631500,
     "finalPrice": 1894500
+  },
+  {
+    "date": 46025,
+    "shape": "RB",
+    "size": "2",
+    "perCt": "30",
+    "quantity": 1,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 500000,
+    "discountPrice": 125000,
+    "finalPrice": 375000
+  },
+  {
+    "date": 46026,
+    "shape": "MQ",
+    "size": "3",
+    "perCt": "20",
+    "quantity": 2,
+    "rate": 600000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 1200000,
+    "discountPrice": 300000,
+    "finalPrice": 900000
+  },
+  {
+    "date": 46028,
+    "shape": "OV",
+    "size": "3",
+    "perCt": "30",
+    "quantity": 4,
+    "rate": 700000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 2800000,
+    "discountPrice": 700000,
+    "finalPrice": 2100000
+  },
+  {
+    "date": 46029,
+    "shape": "MQ",
+    "size": "3",
+    "perCt": "20",
+    "quantity": 4,
+    "rate": 500000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 2000000,
+    "discountPrice": 500000,
+    "finalPrice": 1500000
+  },
+  {
+    "date": 46030,
+    "shape": "MQ",
+    "size": "3",
+    "perCt": "10",
+    "quantity": 3,
+    "rate": 300000,
+    "discountRate": 0.25,
+    "type": "Purchase",
+    "originalPrice": 900000,
+    "discountPrice": 225000,
+    "finalPrice": 675000
+  },
+  {
+    "date": 46026,
+    "shape": "MQ",
+    "size": "3",
+    "perCt": "20",
+    "quantity": 4,
+    "rate": 600000,
+    "discountRate": 0,
+    "type": "Sell",
+    "originalPrice": 2400000,
+    "discountPrice": 0,
+    "finalPrice": 52800000,
+    "changeUnit": 1.1,
+    "adjustedPerCt": 22
   }
 ]

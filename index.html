@@ -613,7 +613,7 @@
 
         async function loadData() {
             try {
-                const response = await fetch('/api/data');
+                const response = await fetch('data.json');
                 diamondData = await response.json();
                 inventoryData = calculateInventory(diamondData);
                 buildStockMap();
