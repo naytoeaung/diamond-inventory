@@ -208,5 +208,20 @@
     "finalPrice": 52800000,
     "changeUnit": 1.1,
     "adjustedPerCt": 22
+  },
+  {
+    "date": 46026,
+    "shape": "RB",
+    "size": "2",
+    "perCt": "30",
+    "quantity": 3.635,
+    "rate": 500000,
+    "discountRate": 0,
+    "type": "Sell",
+    "originalPrice": 1817500,
+    "discountPrice": 0,
+    "finalPrice": 59977500,
+    "changeUnit": 1.1,
+    "adjustedPerCt": 33
   }
 ]
